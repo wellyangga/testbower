@@ -1,0 +1,23 @@
+{
+  "name": "Test",
+  "authors": [
+    "welly.angga <welly.angga@ogilvy.com.au>"
+  ],
+  "description": "Test",
+  "main": [
+  "view/Logo.cshtml",
+  "bin/Test.dll"],
+  "keywords": [
+    "Test"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
